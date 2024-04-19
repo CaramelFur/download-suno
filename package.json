@@ -12,7 +12,6 @@
   "type": "module",
   "dependencies": {
     "mp3tag.js": "^3.9.1",
-    "node-html-parser": "^6.1.13",
-    "tolerant-json-parser": "^1.0.1"
+    "node-html-parser": "^6.1.13"
   }
 }
